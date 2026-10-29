@@ -1,98 +1,161 @@
-# Hey, I'm Huffed Kerd 👋
+# 👋 Hey, I'm Huffed Kerd
 
-### Software Engineer in Progress · C++ · Deep Learning · Systems Architecture
+### 💻 Programmer · 🧠 Deep Learning Enthusiast · ⚙️ Systems Builder
 
-I enjoy understanding how things work beneath the surface — not just using a library, but exploring the ideas, mathematics, and engineering decisions behind it.
+<p align="center">
+  <i>Understanding the fundamentals. Building from scratch. Exploring what's possible.</i>
+</p>
 
-I'm a programmer with a strong interest in **systems programming, deep learning, and building software from first principles.** My goal is to develop a deep understanding of the tools I use and, eventually, build some of those tools myself.
-
-Right now, I'm focused on getting better at the fundamentals, writing more thoughtful code, and turning what I learn into real projects.
-
----
-
-## 🧠 What I'm Working On
-
-### `Nabla` — A C++ Tensor Framework
-
-One of my main projects is **Nabla**, my own C++ tensor framework, where I'm exploring the foundations of numerical computing and neural network infrastructure.
-
-Rather than treating a tensor as a black box, I'm working through the underlying concepts, including:
-
-- Memory management and storage
-- Tensor shapes, strides, and views
-- Broadcasting and arithmetic operations
-- Designing clean, maintainable C++ abstractions
-- Building toward neural network operations and automatic differentiation
-
-The idea is simple: understand the foundations well enough to build on them confidently.
-
-### Deep Learning, From the Inside Out
-
-I'm also studying how neural networks work beyond the high-level API.
-
-My interests include:
-
-- Neural networks implemented from scratch
-- Linear algebra, calculus, and optimization
-- Attention mechanisms and Transformers
-- PyTorch internals and framework design
-- Experimenting with architectures and understanding their limitations
-
-I want to understand not only *how* a model works, but *why* it works, what its limitations are, and how its design could be improved.
+<p align="center">
+  <a href="https://github.com/huffedkerd1">
+    <img src="https://img.shields.io/badge/GitHub-huffedkerd1-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-C%2B%2B%20%7C%20AI-238636?style=for-the-badge" alt="Current Focus" />
+  <img src="https://img.shields.io/badge/Learning-Always-blue?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always Learning" />
+</p>
 
 ---
 
-## 🛠️ My Technical Interests
+## 🧑‍💻 About Me
 
-**Languages**
-- C++
-- Python
-- JavaScript
+I'm a programmer who enjoys going beyond the surface of software — understanding how things work internally, why they're designed a certain way, and how they can be built from the ground up.
 
-**Machine Learning & AI**
-- Neural networks from scratch
-- Deep learning fundamentals
-- Transformer architectures
-- PyTorch and numerical computing
+My interests lie at the intersection of **systems programming, software architecture, mathematics, and artificial intelligence.**
 
-**Software Engineering**
-- Object-oriented programming
-- Data structures and algorithms
-- Memory management
-- API and system design
-- Software architecture
+I enjoy learning by implementing ideas, experimenting with designs, debugging problems, and studying how established frameworks work under the hood.
 
-I'm continuously developing these skills through implementation, experimentation, debugging, and studying existing systems.
+- 🔭 **Currently building:** `Nabla`, my C++ tensor framework.
+- 🧠 **Exploring:** Neural networks, Transformers, and deep learning fundamentals.
+- ⚙️ **Interested in:** Memory management, tensor operations, and framework architecture.
+- 📐 **Learning approach:** Mathematics, first principles, experimentation, and implementation.
+- 🎯 **Long-term goal:** Become a strong software engineer and deep learning researcher who can design and build systems from the ground up.
 
 ---
 
-## ⚙️ How I Like to Learn
+## 🚀 Featured Project
 
-I believe there's a difference between making code work and understanding why it works.
+<table>
+  <tr>
+    <td width="70">
+      <h2>⚙️</h2>
+    </td>
+    <td>
+      <h3><a href="https://github.com/huffedkerd1/NN-in-CPP">Nabla — C++ Tensor Framework</a></h3>
+      A personal project exploring the foundations of tensor computation and neural network infrastructure in C++.
+      <br/><br/>
+      <strong>Working through:</strong>
+      <br/>
+      Memory management · Storage · Shapes & Strides · Broadcasting · Tensor Operations
+      <br/><br/>
+      <a href="https://github.com/huffedkerd1/NN-in-CPP">
+        <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      </a>
+      <a href="https://github.com/huffedkerd1/NN-in-CPP">
+        <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="In Development" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-When I explore a new concept, I try to break it down, reason about the design, implement a small version, test my assumptions, and learn from what goes wrong.
-
-I'm especially interested in the space where **mathematics, computer science, and engineering meet** — where understanding the fundamentals makes it possible to build something new.
+> My goal with Nabla is to understand the engineering behind tensor libraries, not just use them as black boxes.
 
 ---
 
-## 🎯 The Long-Term Goal
+## 🧰 Tech Stack & Interests
 
-I want to grow into a strong software engineer and deep learning researcher, capable of designing systems from the ground up.
-
-That means building a solid foundation in programming, understanding the mathematics behind AI, exploring framework internals, and eventually investigating ideas of my own.
-
-I'm not interested in just collecting technologies. I'm interested in understanding them deeply enough to create.
-
-**One concept at a time. One implementation at a time. One better version at a time.**
+<table>
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies & Topics</th>
+  </tr>
+  <tr>
+    <td><strong>💻 Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🤖 AI & Deep Learning</strong></td>
+    <td>Neural Networks · Transformers · Optimization · PyTorch · NumPy</td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Systems</strong></td>
+    <td>Memory Management · OOP · Tensor Design · Software Architecture</td>
+  </tr>
+  <tr>
+    <td><strong>🌐 Web</strong></td>
+    <td>HTML · CSS · JavaScript · Responsive UI Design</td>
+  </tr>
+  <tr>
+    <td><strong>📚 Foundations</strong></td>
+    <td>Linear Algebra · Calculus · Data Structures · Algorithms</td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Find Me on GitHub
+## 🧠 What I'm Exploring
 
-This profile is where I document my projects, experiments, and progress as I learn, build, and explore.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧮 Neural Networks</h3>
+      Building an understanding of forward propagation, loss functions, backpropagation, and optimization from the mathematical foundations.
+    </td>
+    <td width="50%">
+      <h3>🔬 Framework Internals</h3>
+      Exploring how tensors, storage, memory layouts, and high-level abstractions work beneath the surface.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Transformers</h3>
+      Studying attention mechanisms, their mathematics, and the architecture behind modern language models.
+    </td>
+    <td width="50%">
+      <h3>🏗️ Software Architecture</h3>
+      Learning to make better design decisions, organize code, and build maintainable systems.
+    </td>
+  </tr>
+</table>
 
-If you're interested in C++, AI infrastructure, deep learning, or understanding software from first principles, feel free to explore my repositories.
+---
 
-*Still learning. Still building. Always curious.*
+## 📊 GitHub Overview
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=huffedkerd1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huffedkerd1&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=huffedkerd1&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 🌱 My Philosophy
+
+> I don't just want to know how to use a technology. I want to understand the ideas behind it, the trade-offs in its design, and the engineering required to build it myself.
+
+I believe meaningful progress comes from asking better questions, understanding fundamentals, testing assumptions, and consistently building things that challenge me.
+
+I'm still learning, still experimenting, and still improving — one implementation at a time.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/huffedkerd1">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+Interested in C++, AI, deep learning, or software architecture? Feel free to explore my repositories.
+
+<p align="center">
+  <i>Build with curiosity. Learn with intention. Engineer with purpose. 🚀</i>
+</p>
